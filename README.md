@@ -1,4 +1,4 @@
-Car Search Application
+Car Comparision Application
 
   A React-based web application that allows users to search for car details using a keyword. The app communicates with a Flask back-end to fetch car data stored in Elasticsearch.
 
